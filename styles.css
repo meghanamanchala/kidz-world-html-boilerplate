@@ -21,17 +21,14 @@
 }
 
 #cart1 {
-    padding-left: 2080px;
+    padding-left: 1600px;
 
 }
 
-.image-container {
-    position: relative;
-    display: inline-block;
-}
+
 
 .image-container img {
-    display: block;
+    display: flex;
     width: 100%;
     height: auto;
 }
@@ -56,7 +53,7 @@
 
 .books {
     display: flex;
-    /* padding: 300px; */
+    
     padding-top: 300px;
 
 
@@ -71,7 +68,7 @@ div .book-heading>h2 {
 div .book1>img {
     width: 250px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .book1>h3 {
@@ -89,7 +86,7 @@ h2 {
 div .book2>img {
     width: 250px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .book2>h3 {
@@ -101,7 +98,7 @@ div .book2>img {
 div .book3>img {
     width: 250px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .book3>h3 {
@@ -113,7 +110,7 @@ div .book3>img {
 div .book4>img {
     width: 250px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .book4>h3 {
@@ -125,7 +122,7 @@ div .book4>img {
 div .book5>img {
     width: 250px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .book5>h3 {
@@ -137,7 +134,7 @@ div .book5>img {
 div .book6>img {
     width: 250px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 }
 
 .book6>h3 {
@@ -180,7 +177,7 @@ div .games-heading>h2 {
 div .game1>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -193,7 +190,7 @@ div .game1>img {
 div .game2>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -206,7 +203,7 @@ div .game2>img {
 div .game3>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -219,7 +216,7 @@ div .game3>img {
 div .game4>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -240,7 +237,7 @@ div .game4>img {
 div .hm1>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -253,7 +250,7 @@ div .hm1>img {
 div .hm2>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -266,7 +263,7 @@ div .hm2>img {
 div .hm3>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -279,7 +276,7 @@ div .hm3>img {
 div .hm4>img {
     width: 400px;
     height: 400px;
-    padding: 40px;
+    padding: 20px;
 
 }
 
@@ -313,7 +310,6 @@ div .hm4>img {
     color: aliceblue;
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 0% 5%;
 }
 
 
